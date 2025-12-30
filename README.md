@@ -1,1 +1,1 @@
-This repository contains a collection of personal projects and academic work demonstrating my programming skills and ability to incorporate high-level mathematical concepts into working code. Python code should be ran in 3.10.5.
+This repository contains a collection of personal projects and extensions of academic work demonstrating my programming skills and ability to incorporate high-level mathematical concepts into working code. Python code should be ran in 3.10.5.
